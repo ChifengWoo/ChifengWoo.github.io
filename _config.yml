@@ -1,11 +1,11 @@
 # Site settings
-title: 谈春
-SEOTitle: kin | Kin's Blog
+title: 談春Yoi
+SEOTitle: Yoi | Yoi's Blog
 header-img: img/post-bg-desk.jpg
 email: 945698080@qq.com
 description: "登堂入室."
 keyword: "koyomi,qifengwu"
-url: "http://Yoiito.github.io"       # your host, for absolute URL
+url: "http://chifengwoo.github.io"       # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
